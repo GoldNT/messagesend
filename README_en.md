@@ -2,7 +2,7 @@
 
 ## Do not use for misuse, this project is written by myself
 
-Chinese /English
+[Chinese](README.md) /English
 
 1. The source code can not be used directly, and it needs to be changed into its own token
 2. The information of this project depends on the "shrimp push", please jump to the webpage for details
