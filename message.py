@@ -33,6 +33,8 @@ for i in range(len(con)):
         }
         # 发送 POST 请求到指定的 URL，通知服务有新公告
         requests.post('你的token.send', data=mydata)
+        # 用来暂停2秒钟，防止发送遗漏
+        # time.sleep(2)  
         print('ok')
     else:
         print("暂无通知")
